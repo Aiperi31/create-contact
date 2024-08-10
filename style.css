@@ -1,0 +1,107 @@
+.start{
+background:rgb(159, 157, 157);
+padding-top:50px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.create{
+background:white;
+margin:70px 60px;
+margin-top:100px;
+width:400px;
+height:400px;
+border-radius: 15px;
+}
+
+.title{
+font-size:33px;
+font-family: Roboto; 
+color:blue;
+text-align: center;
+padding:35px;
+}
+.input{
+background:rgb(150, 150, 229);
+padding:15px 75px;
+border:1px solid blue;
+margin:10px 47px;
+border-radius: 25px;
+}
+
+.button{
+background:green;
+padding:10px 40px;
+border:none;
+border-radius: 15px;
+margin:20px;
+margin-left:47px;
+color:white;
+}
+.button2{
+background:black;
+padding: 10px 40px;
+border:none;
+border-radius: 15px;
+color:white;
+
+}
+.btn{
+background:rgb(150, 150, 229);
+border:none;
+border-radius: 25px;
+margin-left: 378px;
+color: white;
+}
+
+li{
+    width: 100%;
+    list-style: none;
+    padding: 5px 2px;
+    border-radius: 5px;
+    margin: 5px ;
+    background: white; 
+    
+}
+ul{
+    padding: 5px 10px;
+    font-family: sans-serif;
+    
+}
+li span{
+    width: 80%;
+    font-size: 13px;
+    padding: 5px 5px; 
+}
+
+.delBtn{
+    color: white;
+    border: none;
+    margin: 0 3px;
+    padding: 10px;
+    background: red; 
+    border-radius: 15px; 
+}
+.list{
+width:400px;
+height:400px;
+background: rgb(150, 150, 229);
+margin:70px 60px;
+margin-top:100px;
+font-size:33px;
+font-family: Roboto; 
+color:blue;
+text-align: center;
+font-weight: 450;
+border-radius: 15px;
+
+
+}
+.block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+}
+
